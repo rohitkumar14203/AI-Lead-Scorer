@@ -4,7 +4,16 @@ AI Lead Scorer is a web application that helps businesses score sales leads usin
 
 ---
 
+## Features
 
+- Capture product/offer details via **Offer Form**
+- Upload leads via **CSV Upload**
+- Run scoring combining **Rules Layer** and **AI Layer**
+- AI-generated reasoning for each lead
+- Color-coded badges for intent (High, Medium, Low)
+- Final scoring from 0–100 points
+- Fully responsive UI with **Tailwind CSS**
+- Easy backend integration with Node.js/Express.js
 
 ---
 
